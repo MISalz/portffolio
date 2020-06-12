@@ -1,17 +1,19 @@
-# Your Portfolio!
+Number and name of feature: __Feature1______________________________
 
-This lab features a working web server containing a portfolio website for you to alter.  In order to get this working, follow these steps:
+Estimate of time needed to complete: _30mins____
 
-1. Create a new, empty repository, called `portfolio`
-   - Initialize it with a `.gitignore` for `Node`
-   - Do not initialize it with a README
-1. Clone that to your machine
-1. Copy the **contents of this folder** into your repo
-   - Not the `lab` folders itself, but these actual files
-1. Run the command `npm install`
-1. Run the command `npm start`
-1. Open your browser to: <http://localhost:3000>
+Start time: _6:46pm____
 
-Following those steps, you should see an empty portfolio. Now, you may commence working on the actual lab assignment.
+Finish time: _7:10pm____
 
-The folders containing the porfolio code for you to edit and modify can be found in the `public` folder herein
+Actual time needed to complete: _____
+------
+Number and name of feature: __Feature1______________________________
+
+Estimate of time needed to complete: _30mins____
+
+Start time: _6:46pm____
+
+Finish time: _7:10pm____
+
+Actual time needed to complete: _____
